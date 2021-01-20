@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

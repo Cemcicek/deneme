@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.exe
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.deps.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\bin\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\Metodlar\obj\Debug\netcoreapp3.1\Metodlar.genruntimeconfig.cache
