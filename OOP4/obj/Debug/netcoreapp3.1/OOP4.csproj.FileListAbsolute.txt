@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.exe
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.deps.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\bin\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.dll
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.pdb
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.genruntimeconfig.cache
+C:\Users\PC\Desktop\C# Yazılımcı\classlar\OOP4\obj\Debug\netcoreapp3.1\OOP4.csprojAssemblyReference.cache
